@@ -5,7 +5,7 @@
 ### ANIMAL TRANSPORTATION
 * Dogs travel via land
 * Birds travel via air
-* Lions travel via land
+* Fish travel via water
 * Blob fish travel via water
 
 
@@ -13,21 +13,21 @@
 ### ANIMAL NOISES
 * Dogs say woof woof
 * Birds say tweet tweet
-* Lions say ROAR!!!
+* Fish say blub blub
 * Blob fish say blerb
 
 
 ### ANIMAL COLORS
 * Most dogs are brown/black
 * Most birds are gray
-* Lions are brown/orange/reddish
+* Fish come in all sorts of colors!
 * Blob fish are pink
 
 
 ### ANIMAL NAMES
 * A good dog name is Rover
 * A good bird name is Tweety
-* A good lion name is Simba
+* A good fish name is Nemo
 * A good blob fish name is Bob the blob
 
 
