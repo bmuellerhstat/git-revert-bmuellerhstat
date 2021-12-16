@@ -13,7 +13,7 @@
 ### ANIMAL NOISES
 * Dogs say woof woof
 * Birds say tweet tweet
-* Lions say roar
+* Lions say ROAR!!!
 * Blob fish say blerb
 
 
