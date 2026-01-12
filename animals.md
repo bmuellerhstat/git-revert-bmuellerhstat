@@ -4,25 +4,25 @@
 
 ### ANIMAL TRANSPORTATION
 * Birds travel via air
-* Fish travel via water
+* Lions travel via land (maybe swim?)
 * Penguins travel via H2O
 
 
 ### ANIMAL NOISES
 * Birds say tweet tweet
-* Fish say blub blub
+* Lions say RROOAAAWWWWWWRRRR!!
 * Penguins say wuwrorwru
 
 
 ### ANIMAL COLORS
 * Most birds are gray
-* Fish come in all sorts of colors!
+* Lions are mostly brown/red/orange/yellow-ish
 * Penguins are black and white
 
 
 ### ANIMAL NAMES
 * A good bird name is Tweety
-* A good fish name is Nemo
+* A good lion name is Aslan or Simba or Mufasa
 * A good penguin name is Jerry
 
 
